@@ -72,6 +72,6 @@ $ ./dis [options]
             the less shaky resulting video will be but more likely to 'escape' the 
             rame. Allowed values (floating point): 0-1 (default is 0.95)
     
-    OPTIONS relevant for stabilizer 'gcbpm'
+    OPTIONS relevant for stabilizer 'svd'
         -c points
             sets the number of key points to track using KLT tracker
